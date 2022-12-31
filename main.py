@@ -9,6 +9,8 @@ from discord.ext import tasks, commands
 from datetime import datetime, timedelta
 import asyncio
 
+import os
+
 intents = discord.Intents.default()
 intents.members = True
 intents.message_content = True
@@ -385,4 +387,4 @@ async def daily_brief(channel):
 
     
 
-client.run("OTAyNDIzMTY5MDk1MzA3MjY0.GXhoGf.aM-kivLcyUn_r4r6ot0oDJ4O5KTOGi3GdaMlDk")
+client.run(str(os.getenv("key")))

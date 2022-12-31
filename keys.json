@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chess-log",
+  "private_key_id": "ba1fa76e708c06dc97bdfe615edf32d1b0c75d7f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCwo54TU0KRrIfV\nZPi6VdLCCYgp3Br2fqaNRZ1AVqUG3PobtYV5yyI7dXfRN4Vdf/fv/ZxAXu00U1kO\nB+u7h7c4PbWO1oIvKeI8ZdgwStWyL6q0yfczNCj+kQncH80xVDM94msSfHcW6UTb\nAVWGazwWVbpvkAli/DydPzLLjyNNLOhl/U1p/cAob+mnTbKGd3ix5NDeR6CXqjng\nKMbvJkm19itI83eG8H4MbBg/DnYY4Rwsihjudv/3S37mDOysGA98TzS9yTt6nvU0\nPYPup4EschqOdxR3YPOgs0X2ud56Trfl96dYAF1F8yjg1HpGBvSN9NHp4J4g7Ats\nmQg0Gy3jAgMBAAECgf9j0WeC2YoaHWVP3GoHjSLh2SvD0UjArXwbrpCDyx12w2k9\nlKvY0kcwp9u4Xvz+g/ztobiqp6S5QmBmOBOpOwhOv+XZfLQUnZaQivz1oqnKsnpv\nr7IB6CKXuLPZsMmZFqaI/L+FCCZEIY4c307KpyP4Jc81PDARv83WY+BQfT11s6Uw\n8f3I7PbQoPhxq6/ae5H6zYi5f0ugEXA3oMTxtWLNIP6IJBJ6r+9Nt4S1J0TLzEK+\nD0ytwp2bxyta+KLf5bEWPiHyZw1JEt5/PCQcUybUiOwcd5kWyyakZpI6sUdkyc6Z\nGhHR/rwJ1THvj3nNpR6qr7Yv1VFewO2WxqGhNxECgYEA2tReoUS0NGXTonFTt2gb\njNpa3gTB2/p+ZCGs6PltZN0MqBiaesH7Vx9hLMHtr1nYqoMmrhuAPAxGHeMF6X4s\n7J9Fm5zlCdPI0VY6EGIJ+mGqxRDxCp4Mb6HDHbJee2Ed/4fOqYEo16vt4E+C6SmU\naZbB8pcMizM27LVb5SC/oyUCgYEAzqShTHnIz3amGHugFxgpCIRMSKBAIQFk8F9m\nENrsN7ScAzMOxpWawqpqM+FlPfzZvpE6DX+wDP+PNbdGu30yGN0nSu5lYDaKXUDt\nFlRYDGqYlTtcFUBz8YdmV4Vdb+w97oqPoDBi7VurzRswZWhTao+53vVBfCdjMPwv\nxSjdQmcCgYEA2gnI0D84nwzmtnDczV46NTpMV/O9hYYt8W9sbiY5TcrDFaqOIcqu\nuLxXgtUoExQewqczHz/fofVI1/agqWpDMPHx1X+a5xPSgGK+MBy/fG9cTEb5JW8d\nTQ2M8EYNxjmaPkX/MP20yFBTELGo6tG3Qw4n6aN/qCM7kteR3NeomtECgYBxD1AV\nOJivMfqEcLdRi21/9GqMXelYZZvljDyawjz16YJmmbve2SG4mmbLBepPtRUpl+nM\nUu1u3zBqsmEn2cLcKbwC2lZrAsxHY2uUiQc3m+bp13V1RzNola1f+175CqeD6RnW\nCkNGHJ7t9I9RHHhvWD3ZCBURKbeyqHg2hjowxwKBgQCzESsF7Q2Tv4p/s9oMuFLw\nnx1H9gtBLsA0X1QML5aDrYBtVGvQxjxWEooFRPdHzqPKeK221TtbOr7P1IhTZzXo\nM9CZrBgFaSfArKcoTbVpBzO6PkwBPxByFVC9/n7KtxyHQ4S1D0Um9HnvBJz6a/Z8\nMKd+eMxTAj8re6iC+tfwqQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "log-manager@chess-log.iam.gserviceaccount.com",
+  "client_id": "103032657413654175550",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/log-manager%40chess-log.iam.gserviceaccount.com"
+}
